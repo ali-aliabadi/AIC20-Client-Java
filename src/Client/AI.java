@@ -44,6 +44,7 @@ public class AI {
 
     public void turn(World world) {
         System.out.println("turn started: " + world.getCurrentTurn());
+        System.out.println("a change");
 
         Player myself = world.getMe();
         int maxAp = world.getGameConstants().getMaxAP();
