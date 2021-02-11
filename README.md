@@ -13,7 +13,7 @@ To run clients:
 4. Run main function in Main.java as the number of players in a game(4 times). Obviously you can run different clients.
 ```
 
-
+#### ali aliabadi
 
 
 
